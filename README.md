@@ -3,7 +3,7 @@ A passionate Data analytics || business analytics || Manual testing
 
 🔭 I’m currently working on: Ola Data Analytics End-to-End Project | SQL | Excel | Power BI
 🌱 I’m currently learning: Python
-📫 How to reach me: Ankitrajishu@gmail.comEnter your email here
+📫 How to reach me: ankitrajishu@gmail.com
 😄 Pronouns: Ankit Raj
 ⚡ Fun fact: I enjoy exploring data and finding interesting insights.
 ## 🌐 Socials:
